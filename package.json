@@ -1,6 +1,6 @@
 {
   "name": "supabase-cli-oauth",
-  "version": "1.190.0",
+  "version": "1.190.1",
   "description": "Supabase CLI Oauth",
   "repository": "https://github.com/tgirotto/supabase-cli.git",
   "homepage": "https://supabase.com/docs/reference/cli",
