@@ -14,9 +14,6 @@
   "files": [
     "scripts"
   ],
-  "scripts": {
-    "postinstall": "node scripts/postinstall.js"
-  },
   "bin": {
     "supabase": "bin/supabase"
   },
