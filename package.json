@@ -1,12 +1,12 @@
 {
-  "name": "supabase",
-  "version": "0.0.0-automated",
-  "description": "Supabase CLI",
-  "repository": "supabase/cli",
+  "name": "supabase-cli-oauth",
+  "version": "1.190.0",
+  "description": "Supabase CLI Oauth",
+  "repository": "https://github.com/tgirotto/supabase-cli.git",
   "homepage": "https://supabase.com/docs/reference/cli",
   "bugs": "https://github.com/supabase/cli/issues",
   "license": "MIT",
-  "author": "Supabase",
+  "author": "Tommaso Girotto",
   "type": "module",
   "engines": {
     "npm": ">=8"
